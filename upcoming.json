@@ -1,1 +1,56 @@
-{"APIVersion":6.22,"UpcomingSkinsList":{"Shogun":"T-Soldier-HID-257-Athena-Commando-M-SamuraiUltra-L","Reflex":"T-Soldier-HID-259-Athena-Commando-M-StreetOps-L","Instinct":"T-Soldier-HID-260-Athena-Commando-F-StreetOps-L"},"UpcomingBackpacksList":{"Bladed Wings":"T-Icon-Backpacks-142-SamuraiUltra-L_2","Loyal Shield":"T-Icon-Backpacks-133-GuanYu-L_2","Reaction Tank":"T-Icon-Backpacks-141-StreetOpsFemale-L_2","Response Unit":"T-Icon-Backpacks-140-StreetOpsMale-L_2"},"UpcomingGlidersList":{"Divine Dragon":"T-Icon_Glider-Glider-ID-087-GuanYu-L","Kabuto":"T-Icon_Glider-Glider-ID-094-SamuraiUltra-L","Pivot":"T-Icon_Glider-Glider-ID-092-StreetOps-L","Helium":"T-Icon_Glider-054-Douyu-L","Rush":"T-Icon_Glider-Glider-Huya-L","Steadfast":"T-Icon_Glider-FNBRTacticalWoodland-L"},"UpcomingPickaxesList":{"A.X.E.":"T-Icon-Pickaxes-Pickaxe-ID-121-RobotRed-L","Guandao":"T-Icon-Pickaxes-Pickaxe-ID-112-GuanYu-L","Jawblade":"T-Icon-Pickaxes-Pickaxe-ID-120-SamuraiUltraArmor-L","Longhorn":"T-Icon-Pickaxes-Pickaxe-ID-114-BadassCowboyCowSkull-L","Angular Axe":"T-Icon-Pickaxes-Pickaxe-ID-118-StreetOps-L"},"UpcomingEmotesList":{"Tai Chi":"T-Icon-Emotes-E-TaiChi-L","Crazy Feet":"T-Icon-Emotes-E-CrazyFeet-L"},"UpcomingContrailsList":{}}
+{
+  "APIVersion": 6.30,
+  "UpcomingSkinsList": {
+    "Shogun": "T-Soldier-HID-257-Athena-Commando-M-SamuraiUltra-L",
+    "Reflex": "T-Soldier-HID-259-Athena-Commando-M-StreetOps-L",
+    "Instinct": "T-Soldier-HID-260-Athena-Commando-F-StreetOps-L",
+    "Taro": "T-Soldier-HID-272-Athena-Commando-M-HornedMask-L",
+    "Maki Master": "T-Soldier-HID-271-Athena-Commando-F-SushiChef-L",
+    "Elmira": "T-Soldier-HID-270-Athena-Commando-F-Witch-L",
+    "Castor": "T-Soldier-HID-269-Athena-Commando-M-Wizard-L",
+    "Riot": "T-Soldier-HID-268-Athena-Commando-M-RockerPunk-L"
+  },
+  "UpcomingBackpacksList": {
+    "Bladed Wings": "T-Icon-Backpacks-142-SamuraiUltra-L_2",
+    "Loyal Shield": "T-Icon-Backpacks-133-GuanYu-L_2",
+    "Reaction Tank": "T-Icon-Backpacks-141-StreetOpsFemale-L_2",
+    "Response Unit": "T-Icon-Backpacks-140-StreetOpsMale-L_2",
+    "Spellbinder": "T-Icon-Backpacks-149-Wizard-L_3",
+    "Tome Pouch": "T-Icon-Backpacks-150-Witch-L_3",
+    "Shrimpy": "T-Icon-Backpacks-151-SushiChefFemale-L_3",
+    "Trusty Tusks": "T-Icon-Backpacks-152-HornedMaskMale-L_3"
+  },
+  "UpcomingGlidersList": {
+    "Divine Dragon": "T-Icon_Glider-Glider-ID-087-GuanYu-L",
+    "Kabuto": "T-Icon_Glider-Glider-ID-094-SamuraiUltra-L",
+    "Pivot": "T-Icon_Glider-Glider-ID-092-StreetOps-L",
+    "Helium": "T-Icon_Glider-054-Douyu-L",
+    "Rush": "T-Icon_Glider-Glider-Huya-L",
+    "Steadfast": "T-Icon_Glider-FNBRTacticalWoodland-L",
+    "Magic Wings": "T-Icon_Glider-Glider-ID-095-Witch-L",
+    "Flying Carp": "T-Icon_Glider-Glider-ID-096-HornedMask-L",
+    "Flappy Flyer": "T-Icon_Glider-Glider-ID-097-Feathers-L",
+    "Hyper": "T-Icon_Glider-Glider-ID-098-Sup-L"
+  },
+  "UpcomingPickaxesList": {
+    "A.X.E.": "T-Icon-Pickaxes-Pickaxe-ID-121-RobotRed-L",
+    "Guandao": "T-Icon-Pickaxes-Pickaxe-ID-112-GuanYu-L",
+    "Jawblade": "T-Icon-Pickaxes-Pickaxe-ID-120-SamuraiUltraArmor-L",
+    "Longhorn": "T-Icon-Pickaxes-Pickaxe-ID-114-BadassCowboyCowSkull-L",
+    "Angular Axe": "T-Icon-Pickaxes-Pickaxe-ID-118-StreetOps-L",
+    "Night Slicer": "T-Icon-Pickaxes-Pickaxe-ID-107-HalloweenTomato-L",
+    "Spellslinger": "T-Icon-Pickaxes-Pickaxe-ID-122-Witch-L",
+    "Gatekeeper": "T-Icon-Pickaxes-Pickaxe-ID-123-HornedMask-L",
+    "Scrambler": "T-Icon-Pickaxes-Pickaxe-ID-124-Feathers-L"
+  },
+  "UpcomingEmotesList": {
+    "Tai Chi": "T-Icon-Emotes-E-TaiChi-L",
+    "Crazy Feet": "T-Icon-Emotes-E-CrazyFeet-L",
+    "Llamacadabra": "T-Icon-Emotes-E-Wizard-L",
+    "Hot Marat": "T-Icon-Emotes-E-WIR-L",
+    "Time Out": "T-Icon-Emotes-E-TimeOut-L",
+    "Knee Slapper": "T-Icon-Emotes-E-CowboyDance-L",
+    "Bombastic": "T-Icon-Emotes-E-AfroHouse-L"
+  },
+  "UpcomingContrailsList": {}
+}
